@@ -1,0 +1,68 @@
+# Test File
+# Jon Warren
+# January 22, 2015
+# To test with ParameterManager library
+
+#STRING TEST#
+
+str1 = "String1";
+str2= "String2";
+str3 ="String3";
+str4="String4";
+
+str5#="String5";
+="String5";
+
+str6=
+"String6";
+
+
+str7 = "String7"
+;
+
+
+#INTEGER TEST#
+
+int1=1;
+int2   = 2#
+#;
+;
+int3
+=
+3
+;
+#int4 = A;
+
+#REAL TEST#
+
+f1=3.75;
+
+
+
+
+
+     #
+f2=     0.25   #foobar
+;
+
+#BOOLEAN TEST#
+b1 = true
+;
+b2
+= false;
+
+#LIST TEST#
+l1 = {"item1","item2","item3"};
+l2= {
+"item1",
+"i t e m 2",
+# foobar
+"item3"
+
+
+
+}#
+;
+
+
+l4 = {};

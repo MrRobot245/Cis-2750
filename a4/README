@@ -1,0 +1,8 @@
+How to use
+
+Simply run 'python install_dialogc.py'
+
+Limitations
+
+It will create a subDir if you try and point it at a different dir ie
+  "~/Desktop" will make ~/ and Desktop inside the current dir
